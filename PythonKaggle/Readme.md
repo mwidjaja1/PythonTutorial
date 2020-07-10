@@ -24,4 +24,4 @@ First, download all of these files to your computer. You should be able to clone
 **After you installed Anaconda and downloaded these files**:
 1. Launch your Anaconda Terminal. This is 'Anaconda Prompt' on Windows from the Start Menu. On macOS, launch your Terminal app.
 2. In that prompt, run `jupyter-lab`
-3. Navigate using the file browser to the 
+3. Navigate using the file browser to the .ipynb files. Double click on one to run it.
